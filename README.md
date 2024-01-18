@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+  为什么之前的号突然就被暂停使用了aaaaa。什么都没干，也没有邮件提醒
+
 <!---
 feifeiz1/feifeiz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
